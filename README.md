@@ -1,15 +1,33 @@
-- 👋 Hi, my name is Patrick 
-- 👀 I’m interested in researching AI topics and love coding
-- 🌱 I’m currently learning Software Engineering, Machine Learning and Artificial Intelligent
-- 🥅 My goal is by 30 I will land a ML/AI research position
-- ⚡ My hobbies: Coding, play games and read about new technologies
+<h3 align="center">
+Hi there, I'm Patrick 👋
+</h3>
 
-###How to reach me
+<h2 align="center">
+I'm a Software Engineer 👨‍💻💻
+</h2> 
 
-[<img align="left" alt="ahmad-afghan-6a6951176 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br/>
+
+## 🌱 Currently learning:
+- 📱 React Native
+- AI software development
+- Machine Learning and Artificial Intelligent
+
+## 💼 Technical Skills
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+## 📈 GitHub Stats 
+
+[![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=pttran3141&theme=blue-green)](https://github.com/pttran3141)
+[![Patrick's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pttran3141&theme=blue-green&layout=compact)](https://github.com/pttran3141)
 
 
-<!---
-pttran3141/pttran3141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Connect with me:
+
+<a href="https://www.linkedin.com/in/pttran3141/"><img align="left" src="https://raw.githubusercontent.com/pttran3141/pttran3141/main/images/linkedin.svg" alt="Patrick Tran | LinkedIn" width="21px"/></a>
