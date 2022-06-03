@@ -1,17 +1,16 @@
 <h3 align="center">
-Hi there, I'm Patrick 👋
+Hi there, I'm Phuc (Patrick) 👋
 </h3>
 
 <h2 align="center">
-I'm a Software Engineer 👨‍💻💻
+I'm a Full-stack Software Engineer 👨‍💻💻
 </h2> 
 
 <br/>
 
 ## 🌱 Currently learning:
-- 📱 React Native
-- AI software development
-- Machine Learning and Artificial Intelligent
+- 📱 React
+- .Net
 
 ## 💼 Technical Skills
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -19,8 +18,9 @@ I'm a Software Engineer 👨‍💻💻
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Dotnet](https://img.shields.io/badge/ASP.NET-%23F467.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%FF69B4.svg?style=for-the-badge&logo=sql&logoColor=white)
 
 ## 📈 GitHub Stats 
 
