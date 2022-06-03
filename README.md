@@ -30,4 +30,4 @@ I'm a Software Engineer 👨‍💻💻
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/pttran3141/"><img align="left" src="https://raw.githubusercontent.com/pttran3141/pttran3141/main/images/linkedin.svg" alt="Patrick Tran | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/pt-tran/"><img align="left" src="https://raw.githubusercontent.com/pttran3141/pttran3141/main/images/linkedin.svg" alt="Patrick Tran | LinkedIn" width="21px"/></a>
