@@ -22,11 +22,6 @@ I'm a Full-stack Software Engineer 👨‍💻💻
 ![Dotnet](https://img.shields.io/badge/ASP.NET-%23F467.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%FF69B4.svg?style=for-the-badge&logo=sql&logoColor=white)
 
-## 📈 GitHub Stats 
-
-[![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=pttran3141&theme=blue-green)](https://github.com/pttran3141)
-[![Patrick's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pttran3141&theme=blue-green&layout=compact)](https://github.com/pttran3141)
-
 
 ## Connect with me:
 
